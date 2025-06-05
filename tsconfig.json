@@ -14,5 +14,5 @@
     ".expo/types/**/*.ts",
     "expo-env.d.ts",
     "nativewind-env.d.ts"
-  ]
+, "app/(tabs)/technews.jsx", "app/(tabs)/search.jsx", "app/(tabs)/mobile.jsx", "app/(tabs)/index.jsx", "app/(tabs)/compare.jsx", "app/(tabs)/_layout.jsx", "app/post/[slug].jsx", "app/_layout.jsx"  ]
 }
